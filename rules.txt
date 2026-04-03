@@ -1,0 +1,55 @@
+Tournament Rules - Final Version
+
+1. Team & Player Rules
+- 4 teams total
+- 7 players per team
+- 2 players per team are flexible players (decided by captain)
+- Flexible players can only substitute within their own team (not opponents)
+- Impact player can bat, bowl, and field (not required to be a flexible player)
+
+2. Availability and Substitutions
+- When someone in the team is injured or unavailable, captain can ask any of the other flexible players to play in their team
+- Flexible players from the opposition are not allowed to play
+- Team players can replace flexible players at any point of time in the match
+- If someone is not available to bat, they will be considered retired out
+- No batsman is allowed to bat twice in an innings
+
+3. Match Setup
+- 5 fielders + 1 keeper + 1 bowler will be on field
+- Batting team will have 7 wickets
+- Minimum 5 bowlers mandatory
+- Maximum limit for a bowler is 2 overs
+
+4. Tournament Rules
+- Average of win margin (4s) will be used as net run rate
+- Top 2 teams will play finals
+- Formal scoring will be done through Stumps app
+
+5. Umpire Rules
+- Umpire can be chosen by both captains
+- Every match will have 2 umpires (1 straight and 1 off/leg)
+- Umpires will have the final call
+- Same umpires for both teams. No side changes
+
+6. Boundary and Ground Rules
+- Cones placed by umpire define the boundary
+- Obstruction by tree or umpire will not count as a four
+- Ball touching boundary line is considered a boundary
+
+7. Batting Rules
+- No batting change mid-over unless injured
+- Batsman can retire after over (1 per team)
+- Injured batsman can return anytime
+
+8. Bowling Rules
+- No bowling change mid-over unless injured
+- Only 1 foot warning per bowler per match
+- Beamers and multiple bounce balls are No balls
+
+9. Conduct Rules
+- No shouting or distraction allowed
+- Violations lead to demerit points
+- Each demerit point removes 1 boundary from score
+
+10. Other Rules
+- All other rules remain as currently played
