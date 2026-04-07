@@ -1,0 +1,51 @@
+—>1. We got 4 teams now. 
+7 players in each side.
+2 from each team will be named flexible players. Captain will decide the 2 for the tournament.
+—> 2. when someone in the team is injured or unavailable, Captain can fill the empty spot with Flexi player. Flexi player can bat, bowl and field in any spot as requested by captain.
+—> 3. Captain can propose a flexi player to play for him from available 4. If opposition team captain agrees to one, Flexi player is awarded and will play until the end of game (flexible players from opposition are not allowed to play).
+—> 4. Sub fielding is allowed as agreed by opposition captain if any player is joining late. But if Flexi player is chosen, he’ll play complete match and no scope to replace him again with the actual  team player.
+—> 5. Team player can join at any point of the match but only when Flexi player hasn’t replaced him already for that game. 
+—> 6. Captain can either go with flexi player or chose to start game with less players as per his choice. If Flexi players couldn’t be decided by both captains, Umpires will have a final call (team suggestions/ discussions should be avoided). Umpires will decide on flexi based on their 2 votes or can go for toss if even umpires can’t decide on one
+—> 7. Match should start within 5min after Toss, its captain responsibility to Decide on playing 7  within time and if delayed beyond 5min, 1 boundary will be deducted for every next 5min delay.
+—> 8. 5 fielder’s+1 keeper and 1 bowler will be on field. Batting team will have 7 wickets.
+—> 9. If someone is not available to bat, they’ll be considered retired out. (No batsmen are allowed to play twice in an innings).
+—> 10. Average of Win margin (4s) will be used for Net run rate calculations. 
+—> 11. Top 2 teams will play finals
+—> 12. Umpire can be chosen by both captains, someone from the Organizers group those not part of the given match.
+—> 13. On a given day, Boundary cones placed by umpires would define the boundary. Outer edge of the cone would be considered boundary line at straight.
+—> 14. Every match will have 2 umpires (1 main near bowler and 1 off/leg between keeper and side boundary) Needless to say umpires will have a final call. Umpires can change their decision if initially both are not on the same stands but later they agree to one based on who’s more confident / sure about their decision.
+—> 16. Captains can decide on who’ll be the main and leg umpire. Will be same for both teams for the given match. No side changes between innings/overs.
+—> 17. Any obstruction by tree near leg side iron grill or by umpire will not be counted as a four.
+—> 18. No Batting/bowling changes in between an over unless they’re declared injured by both the umpires. They’re allowed to bat/bowl later in the match.
+—> 19. Bastman can retire after the end of over but they need to play minimum of 6 balls before retiring. Also need to bat again as a last bastman in the team to comeback. Limited 1 per team in a given match.
+—> 20. Additionally If batsman is injured as decided by both the umpires, batsman can retire but can comeback anytime. Min 6 balls rule doesn’t apply in this case.
+—> 21. ⁠Min 5 bowlers mandatory, max limit for bowler is 2.
+—> 22. ⁠only 1 over foot warning per bowler in a match. Second over foot will be considered No ball.
+—> 23. If delivered ball bounces twice before stumps, it’s considered No ball.
+—> 24. If balls pitches outside of mat, it’s considered No ball.
+—> 25. If ball bounced on mat and goes out of reach from batsman, it’s considered Wide ball.
+—> 26. If ball bounced outside of mat and out of reach of batsman, it’s considered No ball.
+—>27. Wide won’t extend if batsmen moves towards wide crease. On the line is legal delivery.
+—>28. ⁠ Above the shoulder delivery according to bastmen initial stands will be considered first warning and above head will be a wide. One height warning is allowed per over, second ball over the shoulder will be considered Wide. Bastman height after Ducking under the ball will not decide if the ball is Wide or above the shoulder.
+—>29. ⁠Pitching the ball outside of pitch (out of mat) and spinning inward will be considered a No ball. 
+—>30. ⁠ Bowlers walk length is restriced as per rear crease. within which bowler can walk to bowl. If bowler steps outside of creases while bowling before delivering the ball, bowler will be given warning at first and second such instance will get them a No ball.
+—>31. ⁠Beamers / above the stumps full toss as decided by umpire will be considered a No ball.  2 Beamers by a bowler in an over will disqualify the bowler to bowl further in the given match.
+—>32. ⁠Any boundaries scored on a No ball will be counted. Follow up legal delivery must be bowled. Hitting over the fence on a No ball is OUT. But any other form of dismissal during No ball will be discarded and batsmen can continue playing.
+—>33. ⁠Ball going to boundary after touching the fielder in a non boundary area will be considered not a boundary. 
+—> 34. If ball touches/ or bounces on the boundary line, it’ll be considered a boundary.
+—>35. ⁠No shouting/ fielder distraction allowed while fielder is collecting the ball. If repeated after first warning, team responsible will be awarded a demerit point as decided by umpires. If team not playing does that, they will get demerit points in their next match. Demerit point mean one boundary Minus.
+—>36. ⁠Distracting batsmen through comments/shouts/ bowler encouragement at the time of delivery is restricted. If repeated after first warning, team responsible will be awarded a demerit point as decided by umpires. If team not playing does that, they will get demerit points in their next match. 
+—> 37. If someone disagrees with umpires/argues  aggressively and if both Umpires think that’s unnecessary, they can award demerit points. Each demerit point will  cut short a boundary from their total score in the given match.
+—> 38. Formal Scoring will be done through Stumps app.
+—> 39. Player who scored most boundaries will be considered Best Bastman. If there’s a tie, Bastman who scored most boundaries in any match of the tournament will be chosen first. If still tie, strike rate will be considered as a criteria.
+—> 40. Best Bowler Criteria
+For a min of 10 wickets taken, points calculated based on
+Avg wickets per match- 0.5(Avg boundaries conceded).
+—> 41. In case if a match ends up as a tie
+a.Super over-1 will be played
+b.Super over-2 (if tie in super over-1)
+c. Bowl out (if tie in super over-2) - 6 balls and 6 players from each team.
+—> 42. Main Umpire will provide Balls to the bowling team, it can be new or used in that tournament. Bowler can opt from whatever umpire has offered. It’s not mandatory that new ball has to be bowled every over. Should go with options given by umpire.
+
+Ex: After playing 10 matches, if bowler takes 15 wk and conceded 12 boundaries,  
+His Points will be (15/10)-0.5(12/10)=0.9
